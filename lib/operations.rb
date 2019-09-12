@@ -1,4 +1,4 @@
-if/else unsafe?(40 or above 60)
+if/else unsafe?(speed)
 
 end
 
